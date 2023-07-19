@@ -41,3 +41,6 @@ Deep Blue Summarizing Meeting Project: https://summarizing-meeting-project.web.a
 We hope you find this project helpful and informative. Thank you for your interest!
 
 ## Screenshots
+
+![image](https://github.com/Owais-Shaikh-0786/Drowsiness-Detection-System/assets/139638554/f8e042e2-64d9-4c6e-86ae-210a1fdedae6)
+

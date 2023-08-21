@@ -24,7 +24,7 @@ User-friendly interface for easy interaction.
 
 The Drowsiness Detection System relies on the following libraries:
 
-cv2 (OpenCV) 
+cv2 (OpenCV).
 numpy 
 streamlit
 keras
